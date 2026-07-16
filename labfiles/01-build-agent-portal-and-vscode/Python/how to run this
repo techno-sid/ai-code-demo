@@ -1,0 +1,17 @@
+python -m venv labenv
+.\labenv\Scripts\Activate.ps1
+pip install -r requirements.txt
+
+
+az login
+
+
+python agent_with_functions.py
+
+Test Seach : 
+
+What's the policy for password resets?
+Analyze the system performance data and identify any periods where CPU usage exceeded 80%
+Create a line chart showing memory usage trends over time
+What are the average, minimum, and maximum values for disk usage in the performance data?
+Find any correlation between high CPU usage and memory usage in the performance data
