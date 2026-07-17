@@ -12,3 +12,8 @@ View the exercises in the [GitHub Pages site for this repo](https://go.microsoft
 
 If you encounter any problems in the exercises, please report them as **issues** in this repo.
 "# ai-code-demo" 
+
+
+## Solution 
+Lab Solution
+https://microsoftlearning.github.io/mslearn-ai-agents/
