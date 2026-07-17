@@ -17,3 +17,7 @@ If you encounter any problems in the exercises, please report them as **issues**
 ## Solution 
 Lab Solution
 https://microsoftlearning.github.io/mslearn-ai-agents/
+
+## Another Repo code 
+Another Repo 
+https://github.com/ashutoshkandpal89/azure-ai-foundry-enterprise-blueprint
