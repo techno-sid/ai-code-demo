@@ -21,3 +21,14 @@ https://microsoftlearning.github.io/mslearn-ai-agents/
 ## Another Repo code 
 Another Repo 
 https://github.com/ashutoshkandpal89/azure-ai-foundry-enterprise-blueprint
+
+
+## Develop generative AI apps in Azure
+https://learn.microsoft.com/en-us/training/paths/develop-generative-ai-apps/
+
+
+## AI -103 Learning 
+https://learn.microsoft.com/en-us/training/courses/ai-103t00
+
+## AI- 102 Solution
+https://microsoftlearning.github.io/AI-102-AIEngineer/
